@@ -1,0 +1,1 @@
+<-- Server-side script denied access to anonymous clients -->
